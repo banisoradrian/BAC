@@ -1,0 +1,142 @@
+*{
+	padding: 6px;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: 'Quicksand', sans-serif;
+}
+
+body{
+	height: 100vh;
+	width: 100%;
+}
+.container{
+	position: relative;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 20px 100px;
+}
+
+.container:after{
+	content: '';
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0;
+	top: 0;
+	background-size: cover;
+	filter: blur(50px);
+	z-index: -1;
+}
+.contact-box{
+	max-width: 850px;
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	
+	box-shadow: 0px 0px 19px 5px rgba(0,0,0,0.19);
+}
+
+.left{
+	background: url("pozafundal.webp") no-repeat center;
+	background-size: cover;
+	height: 80%;
+}
+
+.right{
+	padding: 25px 40px;
+}
+
+h2{
+	position: relative;
+	padding: 0 0 10px;
+	margin-bottom: 10px;
+}
+
+h2:after{
+	content: '';
+    position: absolute;
+    left: 50%;
+    bottom: 0;
+    transform: translateX(-50%);
+    height: 4px;
+    width: 50px;
+    border-radius: 2px;
+    background-color: #ff0000;
+}
+
+
+
+
+.liste:hover{
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+
+
+.btn{
+	width: 100%;
+	padding: 0.5rem 1rem;
+	background-color: #ff0000;
+	color: #fff;
+	font-size: 1.1rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: .3s;
+}
+
+.btn:hover{
+    background-color: #ff0000;
+}
+
+.field:focus{
+    border: 2px solid #ff0000;
+    background-color: #fff;
+}
+
+@media screen and (max-width: 880px){
+	.contact-box{
+		grid-template-columns: 1fr;
+	}
+	.left{
+		height: 200px;
+	}
+}
+
+#socialIcons {
+    height: 50px;
+    width: auto;
+    position: absolute;
+    bottom: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+#socialIcons a {
+    height: 50px;
+    width: 50px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+#socialIcons a i {
+    height: 50px;
+    width: 50px;
+    border: 2px solid #c3c3c3;
+    font-size: 20px;
+    color: #c3c3c3;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+}
+
+#socialIcons a i:hover {
+    background: #ff0000;
+    color: #fff;
+    border-width: 1px;
+}
