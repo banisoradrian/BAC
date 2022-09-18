@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#container {
+    height: 100vh;
+    width: 100%;
+}
+
+#background {
+    height: 100vh;
+    width: 100%;
+    background:#ff0000;
+    clip-path: polygon(65% 0, 100% 0, 100% 100%, 30% 100%);
+}
+
+#navbar {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    top: 15px;
+}
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+#navbar ul li {
+    height: 60px;
+    width: auto;
+    font-size: 23px;
+    margin: 0px 60px;
+    display: flex;
+    align-items: center;
+}
+
+#navbar ul li:first-child {
+    margin-left: 120px;
+}
+
+#navbar ul li a {
+    text-decoration: none;
+    color: #8c8c8c;
+}
+
+#navbar ul li a:hover {
+    color: #ff0000;
+    padding: 10px 0;
+    border-bottom: 2px solid #ff0000;
+}
+
+#navbar ul:hover .active a {
+    padding: none;
+    border: none;
+    color: #8c8c8c;
+}
+
+#navbar ul .active a:hover {
+    color: #ff0000;
+    padding: 10px 0;
+    border-bottom: 2px solid #ff0000;
+}
+
+#logo {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    top: 15px;
+    right: 5%;
+}
+
+#logo img {
+    height: 70px;
+    width: auto;
+}
+
+#sideImage {
+    height: 600px;
+    width: auto;
+    position: absolute;
+    top: calc(50% - 200px);
+    
+}
+
+#sideImage img {
+    height: 390px;
+    width: auto;
+}
+
+#content {
+    height: 650px;
+    width: 700px;
+    position: absolute;
+    right: 2%;
+    top: calc(50% - 300px);
+}
+
+#content h2 {
+    font-size: 150px;
+    line-height: 190px;
+    color: #fff;
+    padding-left: 250px;
+}
+
+#content p {
+    margin: 30px 0;
+    color: #fff;
+    font-size: 20px;
+}
+
+#content button {
+    height: 70px;
+    width: 200px;
+    outline: none;
+    background: transparent;
+    color: #fff;
+    font-size: 25px;
+    border: 2px solid #c3c3c3;
+    border-radius: 30px 10px;
+    cursor: pointer;
+}
+
+#content button:hover {
+    background: #fff;
+    border: none;
+    color: #ff0000;
+}
+
+#socialIcons {
+    height: 50px;
+    width: auto;
+    position: absolute;
+    bottom: 3%;
+    display: flex;
+    flex-direction: row;
+}
+
+#socialIcons a {
+    height: 50px;
+    width: 50px;
+    margin: 0px 5px;
+    text-decoration: none;
+}
+
+#socialIcons a i {
+    height: 50px;
+    width: 50px;
+    border: 2px solid #c3c3c3;
+    font-size: 20px;
+    color: #c3c3c3;
+    border-radius: 10px;
+    display: grid;
+    place-items: center;
+}
+
+#socialIcons a i:hover {
+    background: #ff0000;
+    color: #fff;
+    border-width: 1px;
+}
+
+
+
