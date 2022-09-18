@@ -16,6 +16,6 @@ int main()
             cout<<divizor<<" ^ "<<putere<<endl;
         divizor++;
         putere = 0;
-    }
+    } 
     return 0;
 }
