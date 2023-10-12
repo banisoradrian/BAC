@@ -8,7 +8,7 @@ Pe scurt atestatul este un proiect pe care trebuie sa - l realizati la sfarsit d
 Toate atestatele au primit nota/calificativ maxim . Nota :10
 
  I - Primul atestat este al meu 
-  -> este realizat in PHP , JavaScript , HTML si CSS , tema este sanatatea 
+  -> este realizat in PHP , JavaScript , HTML si CSS , tema este Sanatatea 
   
  II - Al doilea atestat este al unui coleg de clasa ,
   -> este realizat in JavaScript , HTML si CSS ,  tema este AUDI
