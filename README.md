@@ -3,7 +3,7 @@ Acestea sunt soluțiile mele pentru subiectele și modelele propuse pentru Exame
 
 Din pacate nu pot posta toate exercitiile lucrate de mine deoarece , o mare parte au ramas pe calculatorul de la scoala :( 
 
-O sa va las si 3 atestate (inclusiv al meu) .Nu sunt cine stie ce  , le - am facut destul de repede , deoarece eram cam presat de timp , totusi sunt destul de reusite .
+O sa va las si 3 atestate realizate de mine (inclusiv al meu) .Le - am facut destul de repede , deoarece eram cam presat de timp , totusi sunt destul de reusite .
 Pe scurt atestatul este un proiect pe care trebuie sa - l realizati la sfarsit de clasa a XII - a sau puteti pur si simplu sa - l cumparati sau sa - l gasiti free pe net.
 Toate atestatele au primit nota/calificativ maxim . Nota :10
 
