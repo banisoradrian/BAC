@@ -18,8 +18,10 @@ Toate atestatele au primit nota/calificativ maxim . Nota :10
   
 Tips :
 
-->  La Bac scrieti strict doar ce va cere ! (de exemplu la problema cu realizarea subprogramului  de preferat e sa scrieti doar unul , puteti sa faceti si 2 subprograme dar nu e sigur ca orice corector o sa va dea punctaj maxim)
+->  La Bac scrieti strict doar ce va cere ! (de exemplu la problema cu realizarea subprogramului  de preferat e sa scrieti doar unul , puteti sa faceti si 2 subprograme dar nu e sigur ca orice corector o sa va dea punctaj maxim);
+
 ->  la exercitiile unde se cere citirea matricei , la bac SCRIETI DOAR cele doua for - uri si cin >> A[i][j] , fara acel cout<<"A["<<i<<"]["<<j<<"] = " ;
+
 ->  De asemenea , cand in problema ni se precizeaza intervalul unei variabile ( de exemplu x apartine [1,10^3]), in loc de cin >> x , putem scrie aceasta secventa
 
      do
