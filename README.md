@@ -26,7 +26,7 @@ Tips :
 
      do
         cin >> n;
-    while(!(n >= 2 && n <= 1000));   /// Scrierea asta este optionala , insa prinde mai bine la corector
+    while(!(n >= 1 && n <= 1000));   /// Scrierea asta este optionala , insa prinde mai bine la corector
 
 
 
