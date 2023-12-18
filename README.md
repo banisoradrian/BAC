@@ -6,7 +6,8 @@ Din pacate nu pot posta toate exercitiile lucrate de mine deoarece , o mare part
 O sa va las si 3 atestate realizate de mine (inclusiv al meu) .Le - am facut destul de repede , deoarece eram cam presat de timp , totusi sunt destul de reusite .
 Pe scurt atestatul este un proiect pe care trebuie sa - l realizati la sfarsit de clasa a XII - a sau puteti pur si simplu sa - l cumparati sau sa - l gasiti free pe net.
 Fiecare profesor poate sa aleaga un tip diferit de atestat(Exemple de atestate propuse de profesori: Realizarea unui site / aplicatii desktop / aplicatie tip consola / crearea unei baze de date etc.)
-Profesorul meu din liceu a ales sa realizam cu totii un site web despre o tema care ne pasioneaza
+Profesorul meu din liceu a ales sa realizam cu totii un site web despre o tema care ne pasioneaza.
+
 Toate atestatele au primit nota/calificativ maxim . Nota :10
 
  I - Primul atestat este al meu 
